@@ -1,0 +1,12 @@
+{
+	"name" : "Ighfirna Afifah",
+	"address" : "Malang",
+	"hobbies" : [
+		{
+			"Reading novel"
+		}
+	],
+	"is_married" : false,
+	"school" : {"highSchool":"SMK PGRI 3 MALANG", "university":"SMK PGRI 3 MALANG"},
+	"skills" : [{"mampu menguasai bahasa pemrograman java"}]
+}
